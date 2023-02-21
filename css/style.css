@@ -1,0 +1,23 @@
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.title{
+    font-size: 80px;
+}
+.counter{
+    font-size: 82px;
+}
+.btn{
+    background-color: rgb(9, 91, 9);
+    color: white;
+    font-size: 20px;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: green;
+
+}
